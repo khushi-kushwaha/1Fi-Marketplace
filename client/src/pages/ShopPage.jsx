@@ -68,7 +68,7 @@ const ShopPage = () => {
 
                 <ComingSoonState
                   title="Top Brands are loading"
-                  description="We're preparing curated brand offers for you. They'll be available here soon."
+                  description="This section is not available in this demo."
                 />
               </>
             )}
@@ -81,7 +81,7 @@ const ShopPage = () => {
 
                 <ComingSoonState
                   title="Nearby Stores are loading"
-                  description="We're finding stores and offers around your location. They'll be available soon."
+                  description="This section is not available in this demo."
                 />
               </>
             )}

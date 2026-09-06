@@ -6,6 +6,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
+        <Route path="/" element={<Navigate to="/shop/marketplace" replace />} />
         <Route path="/shop" element={<Navigate to="/shop/marketplace" replace />} />
         <Route path="/shop/brands" element={<ShopPage />} />
         <Route path="/shop/stores" element={<ShopPage />} />
