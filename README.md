@@ -8,6 +8,7 @@ A responsive full-stack marketplace experience built within the 1Fi Shop flow. U
 **Backend API:** https://onefi-marketplace-backend-ne8y.onrender.com  
 **API:** https://onefi-marketplace-backend-ne8y.onrender.com/api/products
 
+> The backend is hosted on Render's free tier, so the first request may take a few seconds to start.
 
 ## Features
 
